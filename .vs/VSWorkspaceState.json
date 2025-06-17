@@ -1,4 +1,16 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\LAB01",
+    "\\LAB01\\LAB01",
+    "\\Test",
+    "\\Test\\Test",
+    "\\Test\\Test\\obj",
+    "\\Test\\Test\\obj\\Debug",
+    "\\Test\\Test\\obj\\Debug\\net8.0",
+    "\\Test\\Test\\obj\\Debug\\net8.0\\ref",
+    "\\Test\\Test\\obj\\Debug\\net8.0\\refint"
+  ],
+  "SelectedNode": "\\LAB01\\LAB01\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

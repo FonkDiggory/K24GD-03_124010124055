@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\K24GD-03_124010124055\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{470CE12B-BC6A-457D-87EB-52E02CE8F177}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\k24gd-03_124010124055\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470CE12B-BC6A-457D-87EB-52E02CE8F177}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\K24GD-03_124010124055\\Lab4\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\K24GD-03_124010124055\\Lab4\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:15:29.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
