@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\K24GD-03_124010124055\Lab09\Lab09\obj\Debug\net8.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\K24GD-03_124010124055\Lab09\Lab09\obj\Debug\net8.0\Lab09.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\K24GD-03_124010124055\Lab09\Lab09\obj\Debug\net8.0\Lab09.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\K24GD-03_124010124055\Lab09\Lab09\obj\Debug\net8.0\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\K24GD-03_124010124055\Lab09\Lab09\obj\Debug\net8.0\Lab09.sourcelink.json
