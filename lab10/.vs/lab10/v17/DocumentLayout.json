@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\K24GD-03_124010124055\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9F6898-994E-4FDC-BB44-3BF924B6C4CF}|lab10\\lab10.csproj|c:\\users\\admin\\documents\\github\\k24gd-03_124010124055\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9F6898-994E-4FDC-BB44-3BF924B6C4CF}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\K24GD-03_124010124055\\lab10\\lab10\\Program.cs",
+              "RelativeDocumentMoniker": "lab10\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\K24GD-03_124010124055\\lab10\\lab10\\Program.cs",
+              "RelativeToolTip": "lab10\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwE4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:47:14.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
