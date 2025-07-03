@@ -37,7 +37,7 @@ namespace LAB12_FINAL
             {
                 
                 Console.WriteLine($"#{index} | Name = {p.Name}, IsActive: {p.IsActive}, LastLogin: {p.LastLogin}");
-                await firebase.Child("final_exam_bai1_inactive_players").Child(index.ToString).PutAsync(inActivePlayers);
+                await firebase.Child("final_exam_bai1_inactive_players").PutAsync(inActivePlayers);
                 index++;
             }
             index = 1;
@@ -48,7 +48,7 @@ namespace LAB12_FINAL
             foreach (var p in LowLvlPlayers)
             {
                 Console.WriteLine($"#{index} | {p.Name}, Level: {p.Level}, CurrentGold: {p.Gold}");
-                await firebase.Child("final_exam_bai1_low_level_players").Child(index.ToString).PutAsync(LowLvlPlayers);
+                await firebase.Child("final_exam_bai1_low_level_players").PutAsync(LowLvlPlayers);
                 index++;
             }
         }
@@ -65,7 +65,7 @@ namespace LAB12_FINAL
             foreach (var p in Top3VipLvl)
             {
                 Console.WriteLine($"#{index} | {p.Name}, VIP Level: {p.VipLevel}, Bonus: {p.Bonus}");
-                await firebase.Child("final_exam_bai2_top3_vip_awards").Child(index.ToString).PutAsync(Top3VipLvl);
+                await firebase.Child("final_exam_bai2_top3_vip_awards").PutAsync(Top3VipLvl);
                 index++;
             }
 
