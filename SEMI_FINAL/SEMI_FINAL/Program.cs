@@ -159,21 +159,21 @@ namespace SEMI_FINAL
                     name = player.Name,
                     gold = player.Gold
                 }).ToList();
-            foreach (var p in top5)
-            {
-                Console.WriteLine($"#{p.index} | ID: {p.id}, Ten: {p.name}, Vang: {p.gold}");
+                foreach (var p in top5)
+                {
+                    Console.WriteLine($"#{p.index} | ID: {p.id}, Ten: {p.name}, Vang: {p.gold}");
 
-                await firebase
-                    .Child("TopGold")
-                    .Child(p.index.ToString())
-                    .PutAsync(new
-                    {
-                        index = p.index,
-                        id = p.id,
-                        name = p.name,
-                        gold = p.gold
-                    });
-            }
+                    await firebase
+                        .Child("TopGold")
+                        .Child(p.index.ToString())
+                        .PutAsync(new
+                        {
+                            index = p.index,
+                            id = p.id,
+                            name = p.name,
+                            gold = p.gold
+                        });
+                }
         }
 
         public static async Task HienThiTopScore()
