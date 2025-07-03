@@ -19,7 +19,7 @@ namespace LAB12_FINAL
             HttpClient client = new HttpClient();
             string json = await client.GetStringAsync(url);
             players = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Player>>(json);
-            await Bai1();
+            //await Bai1();
             await Bai2();
         }
 
